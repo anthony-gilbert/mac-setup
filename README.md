@@ -1,8 +1,6 @@
-# mac-setup
+## Mac Setup
 
-## My Mac Setup
-
-This repo contains info on all the apps / tools / settings I use on my Mac.
+This repo contains info on all the apps / tools / settings for setting up common Mac tools.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
