@@ -37,21 +37,6 @@ This repo contains info on all the apps / tools / settings for setting up common
 
 					    <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-					    ## What Macbook do I have?
-
-					    I am still using the 2015 Macbook Pro (yes still in 2022). This 7 year old laptop still runs great for all of my needs (development, music production, video editing and image editing).
-
-					    These are the specs at a glance:
-
-					    * Intel "Core i7" Quad Core 2.5 GHz
-					    * 16GB RAM
-					    * 500GB SSD
-					    * AMD Radeon R9 M370X 2GB GPU
-
-					    You can read more about it [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
-
-					    The apps and settings I use will work on the latest M1 and M2 MacBooks as well.
-
 					    ## Homebrew / Terminal / Shell
 
 					    ### Homebrew
